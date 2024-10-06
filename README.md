@@ -8,7 +8,7 @@
 
 ## Классы, наследование
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/vmnr4527mo5e5s5p?svg=true)](https://ci.appveyor.com/project/BudTon/oop-class-js)
 
 ### Легенда
 
